@@ -5,9 +5,6 @@ from tkinter import PhotoImage
 from tkinter import *
 from PIL import Image,ImageTk
 import tkinter
-from tkinter import PhotoImage
-from tkinter import *
-from PIL import Image,ImageTk
 def init_window():
 
     window = tk.Tk()
