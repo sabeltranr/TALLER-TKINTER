@@ -32,3 +32,4 @@ __*Estudiante: Sara Beltrán*__
           -scrollbar
           
 ![TALLER-TKINTER](https://github.com/sabeltranr/TALLER-TKINTER/blob/main/TKINTER.png)
+![TALLER-TKINTER](https://github.com/sabeltranr/TALLER-TKINTER/blob/main/TKINTER1.png)
